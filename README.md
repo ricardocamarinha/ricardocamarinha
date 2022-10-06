@@ -32,5 +32,3 @@
 
 - 🍁 18 Years.
 
-- "Be the best copy of yourself."
-
