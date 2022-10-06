@@ -1,14 +1,21 @@
 <h1 align="center">Iae!✌, Eu sou o Ricardo, amante por tecnologia.</h1>
+
 <div align="center">
   <a href="https://github.com/ricardocamarinha">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardocamarinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocamarinha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Ric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ric-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+ <img align="center" alt="Adobe-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+ <img align="center" alt="Adobe-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+          
+            
+          
 </div>
   
   ##
