@@ -1,5 +1,4 @@
-<h1 align="center">Iae!✌, Eu sou o Ricardo, amante por tecnologia.</h1>
-
+<h1 align="center">Hey!✌, I am Ricardo, technology lover.</h1>
 <div align="center">
   <a href="https://github.com/ricardocamarinha">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardocamarinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,4 +25,12 @@
   <a href = "mailto:ricardocamarinhadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/ricardocamarinha/ricardocamarinha/blob/output/github-contribution-grid-snake.svg)
+##
+  <h1>About me</h1>
+  
+- 📍 Brazil, São Paulo, SP.
+
+- 🍁 18 Years.
+
+- "Be the best copy of yourself."
+
