@@ -5,19 +5,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocamarinha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="33" width="33" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
- <img align="center" alt="Adobe-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
- <img align="center" alt="Adobe-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+<br>
+<br>
           
-            
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,pr,ps&theme=light)](https://skills.thijs.gg)
           
 </div>
   
   ##
+ 
+ <br>
  
 <div> 
   <a href="https://instagram.com/ricardocamarinha8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,9 +23,12 @@
 </div>
 
 ##
-  <h1>📜 About me</h1>
+
+  ### 📜 About me
   
 - 📍 Brazil, São Paulo, SP.
 
 - 🍁 18 Years.
+
+##
 
