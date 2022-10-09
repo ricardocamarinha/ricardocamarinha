@@ -6,9 +6,10 @@
 </div>
 
 <br>
-<br>
   
  <h1>⬇️ Skills ⬇️</h1>
+ 
+ <br>
   
  [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,pr,ps&theme=light)](https://skills.thijs.gg)
           
