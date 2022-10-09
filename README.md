@@ -7,8 +7,10 @@
 
 <br>
 <br>
-          
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,pr,ps&theme=light)](https://skills.thijs.gg)
+  
+ <h1>⬇️ Skills ⬇️</h1>
+  
+ [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,pr,ps&theme=light)](https://skills.thijs.gg)
           
 </div>
   
