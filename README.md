@@ -8,7 +8,7 @@
 <br>
 
 <br>
-
+  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,pr,ps&theme=light)](https://skills.thijs.gg)
 
           
@@ -17,7 +17,7 @@
   ##
  
  <br>
- 
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div> 
   <a href="https://instagram.com/ricardocamarinha8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardocamarinha8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
