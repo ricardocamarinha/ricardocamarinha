@@ -9,7 +9,7 @@
 
 <br>
   
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,pr,ps&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,sass,pr,ps&theme=light)](https://skills.thijs.gg)
 
           
 </div>
