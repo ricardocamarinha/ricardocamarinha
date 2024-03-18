@@ -1,4 +1,4 @@
-<h1 align="center">Hey!✌🏻, I am Ricardo, 🎨 Web Designer & Front-End Developer 🧑🏻‍💻.</h1>
+<h1 align="center">Hey!✌🏻, I am Ricardo <br> 🎨 Web Designer & Front-End Developer 🧑🏻‍💻.</h1>
 <div align="center">
   <a href="https://github.com/ricardocamarinha">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocamarinha&layout=compact&langs_count=7&theme=tokyonight"/>
