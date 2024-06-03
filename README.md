@@ -10,10 +10,10 @@
   ### 🎯 Skills
   
   #### ⚒️ Tools
-[![My Skills](https://skills.thijs.gg/icons?i=git,figma,photoshop,premiere,vscode&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=git,figma,photoshop,premiere,vscode&theme=dark)](https://skillicons.dev)
 ##
   #### 💻 Front-End Skills
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,react,typescript,redux,sass&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark)](https://skillicons.dev)
 ##
  
    ### 📞 Contact
