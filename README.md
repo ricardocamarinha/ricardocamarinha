@@ -1,4 +1,4 @@
-<h1 align="center">Hey!✌🏻, I am Ricardo <br> 🎨 Web Designer & Front-End Developer 🧑🏻‍💻.</h1>
+<h1 align="center">Olá!✌🏻, Eu Sou Ricardo <br> 🎨 Web Designer & Desenvolvedor Front-End 🧑🏻‍💻.</h1>
 <div align="center">
   <a href="https://github.com/ricardocamarinha">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocamarinha&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -7,7 +7,7 @@
 
 ##
 
-  ### 🎯 Skills
+  ### 🎯 Habilidades
   
   #### ⚒️ Tools
 [![My Skills](https://skillicons.dev/icons?i=git,figma,photoshop,premiere,vscode&theme=dark)](https://skillicons.dev)
@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark)](https://skillicons.dev)
 ##
  
-   ### 📞 Contact
+   ### 📞 Contato
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <div>
@@ -27,12 +27,12 @@
 
 ##
 
-  ### 📜 About me
+  ### 📜 Sobre mim
   
-- 🍁 19 Years.
+- 🍁 19 Anos.
   
-- 📍 Brazil, São Paulo, SP.
+- 📍 Brasil, São Paulo, SP.
   
-- 👨🏻‍🎓 In progress..
+- 👨🏻‍🎓 Cursando (Análise e Desenvolvimento de Sistemas) - Unicid.
   
 ##
