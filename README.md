@@ -9,11 +9,11 @@
 
   ### 🎯 Habilidades
   
-  #### ⚒️ Tools
+  #### ⚒️ Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=git,figma,photoshop,premiere,vscode&theme=dark)](https://skillicons.dev)
 ##
   #### 💻 Front-End Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,redux,sass&theme=dark)](https://skillicons.dev)
 ##
  
    ### 📞 Contato
